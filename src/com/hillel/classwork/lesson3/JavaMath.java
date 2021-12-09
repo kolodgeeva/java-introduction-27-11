@@ -14,7 +14,6 @@ public class JavaMath {
     System.out.println(Math.round(f1));
     System.out.println(Math.round(45.34));
 
-
     double random = Math.random();
     System.out.println("random " + random);
 
