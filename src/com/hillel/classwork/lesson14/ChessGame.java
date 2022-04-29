@@ -51,6 +51,7 @@ public class ChessGame {
                 drawableChessItem.draw();
             }*/
 
+            chessItem.print();
             draw(chessItem);
         }
     }

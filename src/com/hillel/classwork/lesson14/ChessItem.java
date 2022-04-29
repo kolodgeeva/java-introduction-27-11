@@ -9,4 +9,6 @@ public abstract class ChessItem implements Drawable {
         return value;
     }
 
+    public abstract void print();
+
 }

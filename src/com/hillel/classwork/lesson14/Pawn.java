@@ -5,4 +5,9 @@ public class Pawn extends ChessItem {
     public void draw() {
         System.out.println("draw pawn");
     }
+
+    @Override
+    public void print() {
+        System.out.println("print pawn");
+    }
 }
