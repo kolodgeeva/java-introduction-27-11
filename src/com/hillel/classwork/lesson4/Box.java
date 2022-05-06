@@ -1,5 +1,6 @@
 package com.hillel.classwork.lesson4;
 
+
 import java.util.Scanner;
 
 public class Box {
